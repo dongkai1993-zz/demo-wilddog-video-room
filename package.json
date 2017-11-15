@@ -1,0 +1,19 @@
+{
+  "name": "demo-wilddog-video-room",
+  "version": "1.0.0",
+  "description": "使用野狗video sdk建立多人视频通话的示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongkai1993/demo-wilddog-video-room.git"
+  },
+  "author": "dongkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongkai1993/demo-wilddog-video-room/issues"
+  },
+  "homepage": "https://github.com/dongkai1993/demo-wilddog-video-room#readme"
+}
